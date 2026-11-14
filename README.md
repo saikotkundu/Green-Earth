@@ -41,5 +41,5 @@ Concise syntax for writing functions through function expression was introduced 
 ---
 ## 🔗 Submission
 - **Live Link :** [Live Link](https://green-earth-89i.pages.dev/)  
-- **GitHub Private Repository:** [Repository Link](https://github.com/CodePoint-46615/Green-Earth.git)  
+- **GitHub Repository Link:** [Repository Link](https://github.com/CodePoint-46615/Green-Earth.git)  
 ---
