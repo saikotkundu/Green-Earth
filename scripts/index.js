@@ -52,7 +52,7 @@ const loadCategory = () => {
 // }
 
 displayCategory = (allCategoryData) => {
-    // console.log(allCategoryData); 
+    // console.log(typeof allCategoryData); 
     const parentContainer = document.getElementById("choose-tree-menu");
     parentContainer.innerHTML =
         `
